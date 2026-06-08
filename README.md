@@ -34,9 +34,17 @@ View the [docs](https://www.ultimatehomeserver.com/docs/) for a detailed guide o
 ### Dashboard
 - 🏠 [`homepage`](https://gethomepage.dev/): A customizable start page for your home server.
 ### Media
-- 📺 [`plex`](https://www.plex.tv/): A personal media server.
+
 - 🪼 [`jellyfin`](https://jellyfin.org/): The free software media system.
 - 📖 [`kavita`](https://www.kavitareader.com/): A modern reading server for manga, comics, and books.
+- 📖 [`Audiobookshelf`](https://github.com/advplyr/audiobookshelf): server for audiobooks only. has android and apple app https://github.com/advplyr/audiobookshelf-app
+- 📖 [`Strash- aka pornhub`] (https://github.com/stashapp/CommunityScripts).: local pornhub 
+
+###Other options 
+- 📺 [`Bookorbit`](https://github.com/bookorbit/bookorbit): better book and audiobook manager couldnt get it working Synology.
+- 📺 [`Rive`](https://www.rivestream.app/):waiting for clone of this to be available.  
+- 📺 [`plex`](https://www.plex.tv/): A personal media server. not as good as jellyfin
+- 
 ### Media Management
 - 👁️ [`overseerr`](https://overseerr.dev/): A request management and media discovery tool.
 - ⏺️ [`sonarr`](https://sonarr.tv/): An automated TV show download and management system.
@@ -70,6 +78,5 @@ View the [`uhs-cli` repository](https://github.com/TechSquidTV/uhs-cli) for more
 ---
 
 ## Thanks
-<p align="center">
-  Made with ❤️, built on the backs of <a href="https://wiki.servarr.com/">*arr stack</a>, <a href="https://www.linuxserver.io/"> linuxserver.io</a>, and more awesome open-source projects.
+<p align="center"> flawlessjess.com for more projects i have done ot working on.
 </p>
