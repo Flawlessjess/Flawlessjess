@@ -33,26 +33,35 @@ View the [docs](https://www.ultimatehomeserver.com/docs/) for a detailed guide o
 ## Services
 ### Dashboard
 - 🏠 [`homepage`](https://gethomepage.dev/): A customizable start page for your home server.
-### Media
+### Media Management
 
 - 🪼 [`jellyfin`](https://jellyfin.org/): The free software media system.
 - 📖 [`kavita`](https://www.kavitareader.com/): A modern reading server for manga, comics, and books.
 - 📖 [`Audiobookshelf`](https://github.com/advplyr/audiobookshelf): server for audiobooks only. has android and apple app https://github.com/advplyr/audiobookshelf-app
-- 📖 [`Strash- aka pornhub`] (https://github.com/stashapp/CommunityScripts).: local pornhub 
+- 📖 [`Stash- aka pornhub`](https://github.com/stashapp/CommunityScripts) local pornhub 
 
 ###Other options 
 - 📺 [`Bookorbit`](https://github.com/bookorbit/bookorbit): better book and audiobook manager couldnt get it working Synology.
 - 📺 [`Rive`](https://www.rivestream.app/):waiting for clone of this to be available.  
 - 📺 [`plex`](https://www.plex.tv/): A personal media server. not as good as jellyfin
-- 
-### Media Management
+
+###Other options 
+- 🐇 [`Mealie`](https://github.com/mealie-recipes/mealie) Manage recipes
+- 🐇 [`Linkwarden`](https://github.com/linkwarden/linkwarden) Bookmark manager
+- 🐇 [`Bento pdf`](https://github.com/alam00000/bentopdf) Manage PDFs
+- 🐇 [`Metube`](https://github.com/alexta69/metube) youtube downloader
+  ###AI-LLMs
+- 🐇 [`Whisper`](https://github.com/openai/whisper) Speach to Text
+- 🐇 [`VibeVoice`](https://github.com/microsoft/VibeVoice) TTS
+- 🐇 [`Deeptutor`](https://github.com/HKUDS/DeepTutor) AI LLM tutor program
+  
+### Download
 - 👁️ [`overseerr`](https://overseerr.dev/): A request management and media discovery tool.
 - ⏺️ [`sonarr`](https://sonarr.tv/): An automated TV show download and management system.
 - 🎬 [`radarr`](https://radarr.video/): An automated movie download and management system.
 - 📊 [`tautulli`](https://tautulli.com/): Monitor your Plex Media Server.
 - 🐯 [`prowlarr`](https://github.com/Prowlarr/Prowlarr): Manage indexers for your *arr stack.
 - 🐇 [`autobrr`](https://autobrr.com/): Automatically search and download from IRC.
-### Download
 - ⏬ [`qbittorrent`](https://www.qbittorrent.org/): A lightweight and feature-rich torrent client.
 - 📰 [`sabnzbd`](https://sabnzbd.org/): The automated Usenet download tool.
 ### Network
@@ -69,14 +78,6 @@ View the [docs](https://www.ultimatehomeserver.com/docs/) for a detailed guide o
 ### Development
 - 🎭 [`playwright`](https://playwright.dev/): A headless browser automator.
 
----
-
-## CLI
-
-View the [`uhs-cli` repository](https://github.com/TechSquidTV/uhs-cli) for more information.
-
----
-
 ## Thanks
-<p align="center"> flawlessjess.com for more projects i have done ot working on.
+<p align="center"> http://flawlessjess.com for more projects i have done ot working on.
 </p>
